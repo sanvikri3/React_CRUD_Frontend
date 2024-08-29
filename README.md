@@ -1,4 +1,4 @@
-# Full Stack CRUD Web Application
+# Frontend CRUD Web Application
 
 This is a Frontend web application built using React.js and Material UI. It is designed for managing user details through Create, Read, Update, and Delete (CRUD) operations.
 
